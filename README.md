@@ -3,12 +3,12 @@
 ## Examples
 Basic tracking:
 <p align="center">
-    <img width=100% src="https://github.com/mazqtpopx/cranfield-drone-tracking-gym/imgs/basic_tracking.gif">
+    <img width=100% src="https://github.com/mazqtpopx/cranfield-drone-tracking-gym/blob/main/imgs/basic_tracking.gif">
 </p>
 
 Obstacle tracking:
 <p align="center">
-    <img width=100% src="https://github.com/mazqtpopx/cranfield-drone-tracking-gym/imgs/obstacle_tracking.gif">
+    <img width=100% src="https://github.com/mazqtpopx/cranfield-drone-tracking-gym/blob/main/imgs/obstacle_tracking.gif">
 </p>
 
 
