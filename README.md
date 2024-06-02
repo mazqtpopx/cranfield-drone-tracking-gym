@@ -6,6 +6,11 @@ Basic tracking:
     <img width=25% src="https://github.com/mazqtpopx/cranfield-drone-tracking-gym/blob/main/imgs/basic_tracking.gif">
 </p>
 
+Dynamic tracking:
+<p align="center">
+    <img width=25% src="https://github.com/mazqtpopx/cranfield-drone-tracking-gym/blob/main/imgs/dynamic_tracking.gif">
+</p>
+
 Obstacle tracking:
 <p align="center">
     <img width=25% src="https://github.com/mazqtpopx/cranfield-drone-tracking-gym/blob/main/imgs/obstacle_tracking.gif">
