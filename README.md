@@ -35,5 +35,7 @@ TBA: Cranfield is undergoing a data repository change. In the meantime the two B
 To get the blender environment working: 
 Download the two blender files from [google drive](https://drive.google.com/drive/folders/1zzx-V_QKEmDVkUEARsH-7NaOgS4mtEk5?usp=sharing). Extract them to your cranfield-drone-tracking-gym/drone_tracking_gym/envs/ repository
 
+If you wish to test the models, you can download the pre-trained model weights [here](https://drive.google.com/drive/folders/1XipW5XxtcUODThjmtj5xKh4epXWISXuG?usp=sharing)
+
 - Update the line 38 from your drone_tracking.path.append("E:/Repos/PTZ_drone_tracking/drone_tracking_gym/envs/") with your local path
 - To change drone scenarios, change the DRONE_SCENARIO in drone_tracking_gym/envs/drone_tracking_env.py and drone_tracking_gym/envs/drone_tracking.blend.py
